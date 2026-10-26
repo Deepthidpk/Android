@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SQLite Names</string>
+    <string name="hint_name">Enter name</string>
+    <string name="btn_add">Add Name</string>
+    <string name="btn_display">Display All Names</string>
+    <string name="header_default">Stored names will appear here</string>
+    <string name="header_count">Stored names (%1$d)</string>
+    <string name="empty_list">No names stored yet. Add one above.</string>
+
+    <string name="err_empty">Please enter a name.</string>
+    <string name="err_too_short">Name must be at least %1$d characters.</string>
+    <string name="err_too_long">Name must be at most %1$d characters.</string>
+    <string name="err_invalid_chars">Use letters only (spaces, . \' and - are allowed between letters).</string>
+    <string name="err_duplicate">\"%1$s\" is already stored.</string>
+    <string name="msg_added">\"%1$s\" added successfully.</string>
+    <string name="msg_add_failed">Could not save the name. Please try again.</string>
+    <string name="msg_nothing_to_show">The database is empty. Add a name first.</string>
+    <string name="msg_loaded">Loaded %1$d name(s).</string>
+</resources>
