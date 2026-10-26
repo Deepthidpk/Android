@@ -28,7 +28,7 @@ Android app (Java, XML, `SQLiteOpenHelper`) that stores names in a local SQLite 
 - `activity_main.xml` – layout
 
 ## Run
-1. `git clone https://github.com/Athira1903/Android.git`
+1. `git clone https://github.com/deepthidpk/Android.git`
 2. Open in Android Studio, sync Gradle.
 3. Run on an emulator or device (API 24+).
 
